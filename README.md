@@ -8,7 +8,7 @@ https://apolenkov.github.io/customdev-learning/guides/p2-git.html
 - `main` — исходная точка упражнения: `intent.md` с проблемой, границами и задачей. Предела выгрузки в нём ещё нет.
 - Получите свою копию. В GitLab: **New project → Import project → Repository by URL** с адресом этого репозитория.
   На GitHub: **Fork**. При Fork на GitHub снимите флажок **Copy the main branch only**, иначе ветки `example/limit-rows` в вашей копии не будет.
-  В терминале: `git clone <адрес вашей копии>`.
+  В терминале: введите `git clone`, пробел и вставьте скопированный HTTPS-адрес вашей копии.
 - Дальше идите по шагам урока: ветка `limit-rows`, правка, Merge Request, замечание, исправление, слияние.
 - Ответьте на замечание в том же запросе, получите Approve по исправленной версии, затем нажмите **Merge**. Второй запрос не создавайте.
 
