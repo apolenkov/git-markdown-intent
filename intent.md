@@ -10,4 +10,4 @@
 - Если строк больше 10 000, система предлагает сузить фильтр
 
 ## Задача
-[PILOT-001](https://jira.example.invalid/browse/PILOT-001)
+`[PILOT-001](https://jira.example.invalid/browse/PILOT-001)` (вымышленная учебная задача)
