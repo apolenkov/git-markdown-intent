@@ -1,7 +1,7 @@
 # git-markdown-intent
 
 Учебный проект к шагу «Markdown, Git, GitLab» курса «Анализ с ИИ-агентами»:
-https://apolenkov.github.io/customdev-learning/guides/p2-git.html
+https://apolenkov.github.io/ai-pdlc-learning/guides/p2-git.html
 
 ## С чего начать
 
