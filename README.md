@@ -1,5 +1,7 @@
 # git-markdown-intent
 
+[![License: MIT](https://img.shields.io/github/license/apolenkov/git-markdown-intent)](LICENSE)
+
 Учебный проект к шагу «Markdown, Git, GitLab» курса «Анализ с ИИ-агентами»:
 https://apolenkov.github.io/ai-pdlc-learning/guides/p2-git.html
 
